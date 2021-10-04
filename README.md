@@ -1,2 +1,0 @@
-# khamdullaevuz.github.io
-KhamdullaevUz
