@@ -31,12 +31,12 @@
       {
         "name": "C++",
         "class": "devicon-cplusplus-plain",
-        "level": "95"
+        "level": "50"
       },
       {
         "name": "Python",
         "class": "devicon-python-plain",
-        "level": "80"
+        "level": "30"
       },
       {
         "name": "HTML",
@@ -46,12 +46,7 @@
       {
         "name": "CSS",
         "class": "devicon-css3-plain",
-        "level": "70"
-      },
-      {
-        "name": "Composer",
-        "class": "devicon-composer-line",
-        "level": "75"
+        "level": "50"
       },
       {
         "name": "Bootstrap",
