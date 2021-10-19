@@ -14,7 +14,10 @@
       "title": "KitobYuklaBot",
       "startDate": "2021",
       "description": "Kitob yukovchi telegram bot",
-      "images": ["images/portfolio/kitobyukla/p1.jpg"],
+      "images": [
+        "images/portfolio/kitobyukla/p1.jpg",
+        "images/portfolio/kitobyukla/p2.jpg"
+      ],
       "url": "",
       "technologies": [
         {
