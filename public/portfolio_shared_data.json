@@ -21,17 +21,17 @@
       {
         "name": "telegram",
         "url": "https://t.me/khamdullaevuz",
-        "class": "fa fa-telegram"
+        "class": "fab fa-telegram"
       },
       {
         "name": "facebook",
         "url": "https://facebook.com/elbek.khamdullaev.9",
-        "class": "fa fa-facebook"
+        "class": "fab fa-facebook"
       },
       {
         "name": "twitter",
         "url": "https://twitter.com/EKhamdullaev",
-        "class": "fa fa-twitter"
+        "class": "fab fa-twitter"
       }
     ],
     "image": "myProfile.jpg"
