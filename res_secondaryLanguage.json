@@ -27,14 +27,5 @@
         }
       ]
     }
-  ],
-  "experience": [
-    {
-      "company": "TechJob.Uz",
-      "title": "Backend developer",
-      "years": "01.08.2020",
-      "mainTech": ["PHP"],
-      "technologies": ["Php", "MySQL", "Wordpress"]
-    }
   ]
 }

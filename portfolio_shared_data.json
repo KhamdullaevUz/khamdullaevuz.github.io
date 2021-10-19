@@ -17,6 +17,21 @@
         "name": "instagram",
         "url": "https://www.instagram.com/khamdullaevuz",
         "class": "fab fa-instagram"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/khamdullaevuz",
+        "class": "fa fa-telegram"
+      },
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/elbek.khamdullaev.9",
+        "class": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/EKhamdullaev",
+        "class": "fa fa-twitter"
       }
     ],
     "image": "myProfile.jpg"
