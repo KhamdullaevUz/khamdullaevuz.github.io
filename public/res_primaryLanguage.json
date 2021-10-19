@@ -27,14 +27,5 @@
         }
       ]
     }
-  ],
-  "experience": [
-    {
-      "company": "TechJob.Uz",
-      "title": "Backend dasturchi",
-      "years": "01.08.2020",
-      "mainTech": ["PHP"],
-      "technologies": ["Wordpress", "MySQL"]
-    }
   ]
 }
