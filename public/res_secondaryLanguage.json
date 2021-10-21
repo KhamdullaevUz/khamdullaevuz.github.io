@@ -15,6 +15,7 @@
       "startDate": "2021",
       "description": "Telegram bot for download books",
       "images": [
+        "images/portfolio/kitobyukla/icon.jpg",
         "images/portfolio/kitobyukla/p1.jpg",
         "images/portfolio/kitobyukla/p2.jpg"
       ],
@@ -35,10 +36,9 @@
       "startDate": "2021",
       "description": "Test system for abiturients",
       "images": [
+        "images/portfolio/forabituriyent/icon.jpg",
         "images/portfolio/forabituriyent/p1.jpg",
-        "images/portfolio/forabituriyent/p2.jpg",
-        "images/portfolio/forabituriyent/p3.jpg",
-        "images/portfolio/forabituriyent/p4.jpg"
+        "images/portfolio/forabituriyent/p2.jpg"
       ],
       "url": "",
       "technologies": [
