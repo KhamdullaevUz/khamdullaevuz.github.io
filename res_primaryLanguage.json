@@ -29,6 +29,32 @@
           "name": "MySQL"
         }
       ]
+    },
+    {
+      "title": "ForAbituriyentBot",
+      "startDate": "2021",
+      "description": "Abituriyentlar uchun test tizimi",
+      "images": [
+        "images/portfolio/forabituriyent/p1.jpg",
+        "images/portfolio/forabituriyent/p2.jpg",
+        "images/portfolio/forabituriyent/p3.jpg",
+        "images/portfolio/forabituriyent/p4.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-yii-plain",
+          "name": "Yii2"
+        }
+      ]
     }
   ]
 }
