@@ -55,6 +55,27 @@
           "name": "Yii2"
         }
       ]
+    },
+    {
+      "title": "MyUSSD bot",
+      "startDate": "2022",
+      "description": "Dealerlar uchun telegram bot",
+      "images": [
+        "images/portfolio/myussd/icon.jpg",
+        "images/portfolio/myussd/p1.jpg",
+        "images/portfolio/myussd/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
     }
   ]
 }
